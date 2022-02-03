@@ -1,11 +1,11 @@
-Sou 
+👋 Olá! Sou Kleiton Lucas
 
-- 👋 Hi, I’m Kleiton Lucas
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS, TypeScript and ReactJS
-- 📫 How to reach me kleitonlucs@gmail.com
+- 🖥️ Busco vaga de trabalho para desenvolvedor front-end
+- 👀 Estou interessado em desenvolvimento web
+- 🌱 Tenho estudado ReactJS e TypeScript
 
-<!---
-kleitonlucas/kleitonlucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/kleitonlucas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleitonlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonlucas&layout=compact&langs_count=7&theme=dark"/>
+</div>
