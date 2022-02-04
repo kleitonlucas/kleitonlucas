@@ -4,11 +4,12 @@
 - 👀 Estou interessado em desenvolvimento web
 - 🌱 Tenho estudado ReactJS e TypeScript
 
+<hr />
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kleitonlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonlucas&layout=compact&langs_count=7&theme=dark" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kleitonlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleitonlucas&layout=compact&langs_count=7&theme=dark" />
 </div>
-<br>
+<br />
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
