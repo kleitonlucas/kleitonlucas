@@ -1,8 +1,7 @@
  ### Olá! Sou Kleiton Lucas 👋
 
-- 🖥️ Busco vaga de trabalho para desenvolvedor front-end
-- 👀 Estou interessado em desenvolvimento web
-- 🌱 Tenho estudado ReactJS e TypeScript
+- 🖥️ Busco vaga de trabalho para desenvolvedor de software
+- 🌱 Tenho estudado Spring Boot
 
 <br />
 <div>
